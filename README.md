@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Jeannie Project
 
 You can use the [editor on GitHub](https://github.com/nikoyakana/Jeannie/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+PLEASE USE FORK AND CHANGE ONLY ON FORK. NEVER ON MASTER!
+
+MASTER WILL BE COMMITED WITH STABLE FEATURES.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
